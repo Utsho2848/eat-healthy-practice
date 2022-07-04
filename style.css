@@ -44,7 +44,9 @@ body {
 }
 
 .about-me {
-    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
 }
 
 .recipies {
